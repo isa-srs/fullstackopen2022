@@ -1,3 +1,3 @@
 # Full Stack Open 2022
-## Tehtävien palautukset
+### Tehtävät
 Osa 0
